@@ -1,0 +1,21 @@
+.order-now{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    padding: 20px;
+}
+.order-now button{
+    height: 50px;
+    width: 100px;
+    background: #fff;
+    font-weight: 300;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: red;
+}
+.order-now button:hover{
+    transition: 0.2s;
+    background: red;
+    color: #fff;
+}
