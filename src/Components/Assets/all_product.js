@@ -40,7 +40,7 @@ import p37_img from "./product_37.png";
 let all_product = [
   {
     id: 1,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "God Vinayaka with Flute",
     category: "painting",
     image: p1_img,
     new_price: 50.0,
@@ -48,7 +48,7 @@ let all_product = [
   },
   {
     id: 2,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Lord Sita Rama in Hanuman 'Jai Shree Ram'",
     category: "painting",
     image: p2_img,
     new_price: 85.0,
@@ -56,7 +56,7 @@ let all_product = [
   },
   {
     id: 3,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Red and Pink Flowers in the pot",
     category: "painting",
     image: p3_img,
     new_price: 60.0,
@@ -64,7 +64,7 @@ let all_product = [
   },
   {
     id: 4,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Early man in modern look with a bone and some cool stuff",
     category: "painting",
     image: p4_img,
     new_price: 100.0,
@@ -72,7 +72,7 @@ let all_product = [
   },
   {
     id: 5,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "A Tree on wood carve",
     category: "painting",
     image: p5_img,
     new_price: 85.0,
@@ -80,7 +80,7 @@ let all_product = [
   },
   {
     id: 6,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "A bird on coffee cup",
     category: "painting",
     image: p6_img,
     new_price: 85.0,
@@ -88,7 +88,7 @@ let all_product = [
   },
   {
     id: 7,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "A beautiful Rangoli paint",
     category: "painting",
     image: p7_img,
     new_price: 85.0,
@@ -96,7 +96,7 @@ let all_product = [
   },
   {
     id: 8,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Fishing in a lake with nice background",
     category: "painting",
     image: p8_img,
     new_price: 85.0,
@@ -104,7 +104,7 @@ let all_product = [
   },
   {
     id: 9,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Nature nice background",
     category: "painting",
     image: p9_img,
     new_price: 85.0,
@@ -112,7 +112,7 @@ let all_product = [
   },
   {
     id: 10,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Good Morning with nice background",
     category: "painting",
     image: p10_img,
     new_price: 85.0,
@@ -120,7 +120,7 @@ let all_product = [
   },
   {
     id: 11,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Smoking Joker",
     category: "painting",
     image: p11_img,
     new_price: 85.0,
@@ -128,7 +128,7 @@ let all_product = [
   },
   {
     id: 12,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Mid day meals logo",
     category: "painting",
     image: p12_img,
     new_price: 85.0,
@@ -136,7 +136,7 @@ let all_product = [
   },
   {
     id: 13,
-    name: "sketch Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Comic sketch on New generation",
     category: "sketch",
     image: p13_img,
     new_price: 85.0,
@@ -144,7 +144,7 @@ let all_product = [
   },
   {
     id: 14,
-    name: "sketch Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Glass jars on table",
     category: "sketch",
     image: p14_img,
     new_price: 85.0,
@@ -152,7 +152,7 @@ let all_product = [
   },
   {
     id: 15,
-    name: "sketch Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Farmer with cows in fields",
     category: "sketch",
     image: p15_img,
     new_price: 85.0,
@@ -160,7 +160,7 @@ let all_product = [
   },
   {
     id: 16,
-    name: "sketch Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Horse running sketch",
     category: "sketch",
     image: p16_img,
     new_price: 85.0,
@@ -168,7 +168,7 @@ let all_product = [
   },
   {
     id: 17,
-    name: "sketch Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Why so serious",
     category: "sketch",
     image: p17_img,
     new_price: 85.0,
@@ -176,7 +176,7 @@ let all_product = [
   },
   {
     id: 18,
-    name: "sketch Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Hanuman 'Jai Shree Rama'",
     category: "sketch",
     image: p18_img,
     new_price: 85.0,
@@ -184,7 +184,7 @@ let all_product = [
   },
   {
     id: 19,
-    name: "sketch Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Angel on books",
     category: "sketch",
     image: p19_img,
     new_price: 85.0,
@@ -192,7 +192,7 @@ let all_product = [
   },
   {
     id: 20,
-    name: "sketch Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Old king",
     category: "sketch",
     image: p20_img,
     new_price: 85.0,
@@ -200,7 +200,7 @@ let all_product = [
   },
   {
     id: 21,
-    name: "sketch Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Outline",
     category: "sketch",
     image: p21_img,
     new_price: 85.0,
@@ -208,7 +208,7 @@ let all_product = [
   },
   {
     id: 22,
-    name: "sketch Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Mother love",
     category: "sketch",
     image: p22_img,
     new_price: 85.0,
@@ -216,7 +216,7 @@ let all_product = [
   },
   {
     id: 23,
-    name: "sketch Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "ANR sketch",
     category: "sketch",
     image: p23_img,
     new_price: 85.0,
@@ -224,7 +224,7 @@ let all_product = [
   },
   {
     id: 24,
-    name: "sketch Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Outline sketch",
     category: "sketch",
     image: p24_img,
     new_price: 85.0,
@@ -232,7 +232,7 @@ let all_product = [
   },
   {
     id: 25,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Harry Poter",
     category: "drawing",
     image: p25_img,
     new_price: 85.0,
@@ -240,7 +240,7 @@ let all_product = [
   },
   {
     id: 26,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "God Vinayaka",
     category: "drawing",
     image: p26_img,
     new_price: 85.0,
@@ -248,7 +248,7 @@ let all_product = [
   },
   {
     id: 27,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Fun In kitchen",
     category: "drawing",
     image: p27_img,
     new_price: 85.0,
@@ -256,7 +256,7 @@ let all_product = [
   },
   {
     id: 28,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Power of Hanuman",
     category: "drawing",
     image: p28_img,
     new_price: 85.0,
@@ -264,7 +264,7 @@ let all_product = [
   },
   {
     id: 29,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "House Craft",
     category: "drawing",
     image: p29_img,
     new_price: 85.0,
@@ -272,7 +272,7 @@ let all_product = [
   },
   {
     id: 30,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Hanuman in Uniform",
     category: "drawing",
     image: p30_img,
     new_price: 85.0,
@@ -280,7 +280,7 @@ let all_product = [
   },
   {
     id: 31,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "King with sward",
     category: "drawing",
     image: p31_img,
     new_price: 85.0,
@@ -288,7 +288,7 @@ let all_product = [
   },
   {
     id: 32,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Earlyman with pet",
     category: "drawing",
     image: p32_img,
     new_price: 85.0,
@@ -296,7 +296,7 @@ let all_product = [
   },
   {
     id: 33,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Rabbit artist",
     category: "drawing",
     image: p33_img,
     new_price: 85.0,
@@ -304,7 +304,7 @@ let all_product = [
   },
   {
     id: 34,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Puzzel drawing",
     category: "drawing",
     image: p34_img,
     new_price: 85.0,
@@ -312,7 +312,7 @@ let all_product = [
   },
   {
     id: 35,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Devil Women",
     category: "drawing",
     image: p35_img,
     new_price: 85.0,
@@ -320,7 +320,7 @@ let all_product = [
   },
   {
     id: 36,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Yoga signs",
     category: "drawing",
     image: p36_img,
     new_price: 85.0,
@@ -328,7 +328,7 @@ let all_product = [
   },
   {
     id: 37,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Women in Peace",
     category: "drawing",
     image: p37_img,
     new_price: 85.0,
